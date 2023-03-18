@@ -1,0 +1,4 @@
+return = {
+ "GOLDPOT", -- crate
+ "4LEAFCLOVER"
+  }
