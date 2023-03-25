@@ -1,4 +1,5 @@
 return {
- "GOLDPOT", -- crate
- "4LEAFCLOVER" -- 77k money
+ "GOLDPOT", 
+ "4LEAFCLOVER",
+ "2BVISITS"
   }
